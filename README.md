@@ -1,7 +1,9 @@
 # AutoModeration
 
-AutoModeration is a MelonLoader Mod for dealing with unwanted people joining your private lobbies!
-When AutoModeration is enabled you will be able to kick anyone who joins your private world instantly like a white-list! (You have to be the Instance Creator.)
+AutoModeration is a MelonLoader Mod for dealing with unwanted people joining your private lobbies! \
+When AutoModeration is enabled you will be able to kick anyone who joins your private world instantly like a white-list! (You have to be the Instance Creator.) \
+
+This prevents photon bot attacks or unwanted people in your private worlds\events.
 
 ## Installation
 
