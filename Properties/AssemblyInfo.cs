@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using MelonLoader;
 // ...
-[assembly: MelonInfo(typeof(AutoModeration.Load), "AutoModeration (Kick-Mod)", "1.0.0", "Sypherr")]
+[assembly: MelonInfo(typeof(AutoModeration.Load), "AutoModeration (Kick-Mod)", "1.0.0", "Sypherr", "https://github.com/xSypah/AutoModeration")]
 [assembly: MelonGame("VRChat", "VRChat")]
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
