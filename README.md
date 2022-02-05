@@ -12,8 +12,8 @@ Go to the releases and download from there, or download the code and compile for
 https://streamable.com/bmqj7e
 
 # Contact & Credits
-WingAPI: https://github.com/xKiraiChan/WingAPI
-Patch Class: https://github.com/Love3000
+WingAPI: https://github.com/xKiraiChan/WingAPI \
+Patch Class: https://github.com/Love3000 \
 Serialization Class: https://github.com/GreengrayZ
 
 Contact: Sypherr#8231
